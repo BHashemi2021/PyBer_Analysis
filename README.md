@@ -1,15 +1,21 @@
-# PyBer Analysis
-Module 5 Challenge - Pyber, a Ridesharing App
+# PyBer Analysis  Pyber, a Ridesharing App
 
-Background
-It's your second week as a data analyst at PyBer, a ride-sharing app company valued at $2.3 billion. You've just been assigned your first big project: analyze all the rideshare data from January to early June of 2021 and create a compelling visualization for the CEO, V. Isualize.
-V. Isualize has given you and Omar a brand-new assignment of creating a summary DataFrame of the ride-sharing data by city type. 
-Task:
-We have been tasked to create visualizations of rideshare data for PyBer to 
-A-	help improve access to ride-sharing services and 
-B-	determine affordability for underserved neighborhoods.
-C-	Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. 
-D-	Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+### Overview of the analysis:
+
+As a data analyst at PyBer, a ride-sharing app company valued at $2.3 billion has just asked for  the analysis of its rideshare data from January to early June of 2019 and accompanying visualization for the CEO, V. Isualize. One of the tasks is creation of the summary DataFrame of the ride-sharing data by city type. 
+
+The task has some objctives as follows that will benifit from the analysis to:
+  A-	help improve access to ride-sharing services and 
+  B-	determine affordability for underserved neighborhoods.
+  C-	A multiple-line graph that shows the total weekly fares for each city type. 
+  D-	A report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+
+### Results:
+There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+Summary:
+There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
+
 The tasks in detail include:
 Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns to:
 1-	get the total number of rides, total number of drivers, and the total fares for each city type. 
@@ -37,24 +43,11 @@ Overview of the analysis: Explain the purpose of the new analysis.
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-Overview of the analysis:
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 As a reminder, the deliverables for this Challenge are as follows:
-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Deliverable 1: A ride-sharing summary DataFrame by city type.
 Deliverable 2: A multiple-line chart of total fares for each city type.
 Deliverable 3: A written report for the PyBer analysis (README.md).
