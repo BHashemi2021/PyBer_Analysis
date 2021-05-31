@@ -11,7 +11,7 @@ The task has some objectives that may benefit from the analysis to:
 
 
 ### Methods
-Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns compiled in two different Excel (.csv) files we calculated:
+Using two different datasets in Excel (.csv) files, we application of the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns we calculated:
   1- the total number of rides, total number of drivers, and the total fares for each city type. 
   2- the average fare per ride and average fare per driver for each city type. 
   3- added the resulting data to a new DataFrame.
