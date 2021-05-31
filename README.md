@@ -1,4 +1,4 @@
-# PyBer Analysis  Pyber
+# PyBer Analysis 
 
 ### Overview of the analysis
 As a data analyst at PyBer, a ride-sharing app company valued at $2.3 billion has just asked for  the analysis of its rideshare data from January to early June of 2019 and accompanying visualization for the CEO, V. Isualize. One of the tasks is creation of the summary DataFrame of the ride-sharing data by city type. 
