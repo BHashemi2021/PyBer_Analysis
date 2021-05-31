@@ -40,8 +40,9 @@ While there is an upward trend in the number of rides in early jjanuary in urban
 
 
 ### Summary
+First, there seems to be a disproportionately large number of rides in urban areas versus suburban or rural areas. On the other hand the fare per ride in rural areas is nearly more than 1.4 times in the cities. Therefore, a normalization of the fares in rural areas may be helpful in more rides in such areas. Secondly, While the number of drivers in the urban areas is nearly 5 times is greater in urban cities, the total revenues from such areas is only twice is much as suburban areas. Therefore allocation of a number of drivers to suburban and to a lesser degree to rural areas deems to be advisable. Third, despite some relative changes in the seasonality of the number of rides in different months of the study durng January to April, a solid recommendation on such trends needs a longer study during all months and seasons of the year. 
 
-???????????????There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
+ 
 
  
 
