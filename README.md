@@ -11,7 +11,17 @@ The task has some objctives as follows that will benifit from the analysis to:
   D-	A report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ### Results:
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+
+The analysis of the Ride-sharing data showed that the services were active in the different community settings: Urban, suburban and rural areas. The results from these three different settings indicate that the total rides in the urban areas tops the othe two by 1,625 rides, with the lowest in rural areas with 78 instances. The total number of drivers is also the highest in urban vs suburban or rual areas, as are the totl fares across the three settings .The average fares, on the other hand is different from the prevous results in that they rank from the highest in rural ($34) vs suburban or urban areas respectively (Figure 1).  
+
+**Figure 1: PyBer Summary DataFrame**
+
+---------------
+![Fig9_PyBer-summary-DataFrame](https://github.com/BHashemi2021/PyBer_Analysis/blob/main/analysis/Fig9_PyBer-summary-DataFrame.png)
+
+----------------
+
+Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
