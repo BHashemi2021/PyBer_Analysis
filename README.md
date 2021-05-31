@@ -1,6 +1,6 @@
-# PyBer Analysis  Pyber, a Ridesharing App
+# PyBer Analysis  Pyber
 
-### Overview of the analysis:
+### Overview of the analysis
 As a data analyst at PyBer, a ride-sharing app company valued at $2.3 billion has just asked for  the analysis of its rideshare data from January to early June of 2019 and accompanying visualization for the CEO, V. Isualize. One of the tasks is creation of the summary DataFrame of the ride-sharing data by city type. 
 
 The task has some objctives as follows that will benifit from the analysis to:
@@ -26,46 +26,27 @@ The analysis of the Ride-sharing data shows that the services active in three di
 
 ----------------
 
+The total fares for each city type diffred from each other greatly with the highest being in the urban and lowest i the rural areas. It is noticeable to add that th average fare was the highest in the rural and owest in the urban ares that shows an inverse correlation. Whether this phenomenon has been the causative problem for fewer rides in rural areas, aside from the fewer number of people in such areas to call for a ride, needs to be investigated to see i there is a significant correlation (Figure 1).
+
+While there is an upward trend in the number of rides in early jjanuary in urban and suburban areas, the rides are downward in rural areas, indicating a lower interest to take such services early in that month, All three areas show a synchronous increase in the number of rides in mid February but after the peak and keeping it for nearly 10 days, the downward trend begins and plateues until late March. The trend againtakes a leap in both urban and rural areas up to April and the two areas begin to go down while the trend is taking pace to increase in suburban areas (Figure 2).
+
+
+**Figure 2: The total fares for each city type during January to Mid-April 2019.**
+
+--------------------------
+![Fig8.png](https://github.com/BHashemi2021/PyBer_Analysis/blob/main/analysis/Fig8.png)
+
+--------------------------
+
 
 ### Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time.  
+???????????????There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
 
-
-
-Deliverable 1: A ride-sharing summary DataFrame by city type
-•	The total number of rides for each city type is retrieved. (5 pt)
-•	The total number of drivers for each city type is retrieved. (5 pt)
-•	The sum of the fares for each city type is retrieved. (5 pt)
-•	The average fare per ride for each city type is calculated. (5 pt)
-•	The average fare per driver for each city type is calculated. (5 pt)
-•	A PyBer summary DataFrame is created. (5 pt)
-•	The PyBer summary DataFrame is formatted as shown in the example. (5 pt)
-
-Deliverable 2: A multiple-line chart of total fares for each city type (45 points)
-Using your Pandas skills and two new functions, pivot() andresample(), create a multiple-line graph that shows the total fares for each week by city type.
-
-Deliverable 3: A written report for the PyBer analysis (20 points)
-Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
-
-The analysis should contain the following:
-
-Overview of the analysis: Explain the purpose of the new analysis.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+ 
 
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-As a reminder, the deliverables for this Challenge are as follows:
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Deliverable 1: A ride-sharing summary DataFrame by city type.
-Deliverable 2: A multiple-line chart of total fares for each city type.
-Deliverable 3: A written report for the PyBer analysis (README.md).
-Upload the following to your PyBer_Analysis GitHub repository:
-The PyBer_Challenge.ipynb file.
-The results need to be kept populated in the PyBer_Challenge.ipynb file. Do not clear the output from the PyBer_Challenge.ipynb file before uploading to GitHub.
-The “Resources” folder with the city_data.csv and ride_data.csv files.
-The “analysis” folder with the PyBer_fare_summary.png.
-An updated README.md that has your written analysis.
+
+
+
